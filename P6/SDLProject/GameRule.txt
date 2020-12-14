@@ -1,0 +1,6 @@
+Princess Mononoke
+
+Player can explore the forest. 
+Player has to avoid colliding with all the elfs or Princess Mononoke herself.
+Player can win by collecting all two masks from the god of the forest.
+Player will have 3 lives.
